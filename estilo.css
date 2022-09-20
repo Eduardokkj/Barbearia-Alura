@@ -1,0 +1,69 @@
+}
+
+h1   {
+     
+     text-align : centro;
+     cor : azul;
+     altura :  150px ; _
+     borda :  sólido de 10 px # 000000 ;
+     padding-top :  20 px ;
+     margem esquerda :  15 px ;
+}
+
+# missao {
+       tamanho da fonte :  20 px
+}
+
+
+#banner { _
+    largura :  100 % ;
+}
+
+p {
+       text-align : centro;       
+}
+
+é  forte {
+  cor : azul;
+}
+
+. imagembeneficios {
+    largura :  65 % ;
+
+
+}
+<ul >
+               <li class = "itens" > Atendimento  aos  Clientes < / li > 
+
+               <li class = "itens" > Espa ço diferenciado < / li > 
+
+               <li class = "itens" > Localização < / li > 
+
+               <li class = "itens" > Profissionais  Qualificados < / li > 
+            < / ul >
+. beneficios {
+    fundo :  #FFFFFF ; _
+    preenchimento :  50px ; _
+
+
+}
+
+h2 {
+    text-align : centro;
+}
+ul {
+    exibição : bloco em linha;
+    alinhamento vertical : topo;
+    largura :  20 % ;
+    margem direita :  10 % ;
+}
+
+. itens {
+    estilo da fonte : itálico
+}
+
+
+div {
+    borda :  sólido de 10 px ;
+    margem esquerda :  15 px ;
+}
